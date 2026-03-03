@@ -1,9 +1,4 @@
-Hey everybody! Itsa me IWa5.
-
-Q/A Time:
-
-Q - Why "IWa5"?
-A - It's an inside joke... you wouldn't get it.
+Q/A:
 
 Q - When did you start coding?
 A - I don't even know.
